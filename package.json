@@ -1,0 +1,13 @@
+{
+  "name": "logica-carrrinho-compra-shope",
+  "version": "1.0.0",
+  "description": "Criar uma carrinho de compras baseando na Shopee onde vamos observar a logica de funcionamento.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
